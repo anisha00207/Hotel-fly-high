@@ -24,6 +24,8 @@ FlyHigh is a comprehensive hotel management system designed to streamline hotel 
    https://github.com/anisha00207/hotel-fly-high.git
 ```
 ## setup
+
+
  Open config.php and update the database credentials
  <?php
 $servername = "your_server";
