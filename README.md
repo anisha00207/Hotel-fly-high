@@ -38,13 +38,13 @@ if ($conn->connect_error) {
 
 ## Screenshots
 
-![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/a21dab94-9b68-4cef-bc8c-cb4e1a67cfab)
+![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/3c73024f-9656-427a-8bfb-2c33c1ad4185)
 
-![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/55d4c943-37f6-4642-969a-ea3a56a3c225)
+![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/15e9759d-6f3c-4598-b36d-5b327585b215)
 
-![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/6da8c3a8-54f0-439d-8cdf-ad2ea9d7c54a)
+![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/f18051b8-12eb-4858-8062-70a5d0fe6e78)
 
-![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/b1120111-a2d4-48ae-b7bc-c39598b95ace)
+![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/5e89ca19-4c28-46c6-a62b-34c1370fd37d)
 
 ![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/70dcadc3-c9a0-4caf-becb-61320bdc4707)
 
