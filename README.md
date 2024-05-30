@@ -27,6 +27,7 @@ FlyHigh is a comprehensive hotel management system designed to streamline hotel 
 
 
  Open config.php and update the database credentials
+ ```sh
  <?php
 $servername = "your_server";
 $username = "your_username";
@@ -37,6 +38,7 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 ?>
+```
 
 ## Screenshots
 
