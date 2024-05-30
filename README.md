@@ -1,4 +1,4 @@
-![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/14df76d0-9066-4807-88b5-b4687b61202b)# FlyHigh Hotel Management System
+
 
 ## Overview
 FlyHigh is a comprehensive hotel management system designed to streamline hotel operations and enhance the guest experience. This system includes features such as user and staff authentication, room booking, and facility management.
@@ -38,15 +38,24 @@ if ($conn->connect_error) {
 
 ## Screenshots
 
-![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/3ded720a-a6b5-4cbb-93d8-00b210206057)
-![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/ef9a2581-e363-40d0-8d43-a3e072af2116)
-![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/4b4ebcb5-26d5-4b13-9039-25df47c75059)
-![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/e0d8eb21-edca-45c0-8d1f-0cef962ffb7f)
-![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/1a6e9a78-f746-40f7-80f8-59b280f1fb27)
-![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/efd3ebf2-3f22-4a7f-8276-402f92f10d80)
-![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/a6bb26b5-d5cb-49a4-8b5c-323c7a4180db)
-![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/c9bc4d25-fff5-4c59-bb81-ddbadf240cad)
-![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/2e1305d9-a493-4106-9775-2993e4fce07c)
+![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/a21dab94-9b68-4cef-bc8c-cb4e1a67cfab)
+![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/55d4c943-37f6-4642-969a-ea3a56a3c225)
+![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/6da8c3a8-54f0-439d-8cdf-ad2ea9d7c54a)
+![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/b1120111-a2d4-48ae-b7bc-c39598b95ace)
+![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/70dcadc3-c9a0-4caf-becb-61320bdc4707)
+![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/f3f8d003-819e-4f75-8ae3-42cb8973104e)
+![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/57764d0c-0d8b-475b-b288-c96292ec827d)
+![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/f3ea7e58-a416-46f4-a781-f1fba5a821d1)
+![image](https://github.com/anisha00207/hotel-fly-high/assets/90251007/c5f657e1-5ade-40e3-8198-64a7d308de69)
+
+
+
+
+
+
+
+
+
 
 
 
