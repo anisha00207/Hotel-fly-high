@@ -53,7 +53,7 @@ to change or to add the username and password of the admin/staff , edit the emp_
 http://localhost:8080/phpmyadmin
 ```
 
-**note - the port name could be different in my case it's 8080**
+**note - the port number could be different in my case it's 8080**
 
 ## Screenshots
 
