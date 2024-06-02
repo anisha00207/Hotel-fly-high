@@ -3,6 +3,14 @@
 ## Overview
 FlyHigh is a comprehensive hotel management system designed to streamline hotel operations and enhance the guest experience. This system includes features such as user and staff authentication, room booking, and facility management.
 
+## Deployment
+
+deployed the website on infinity free
+
+```sh
+http://hotel-flyyhigh.free.nf/index.php
+```
+
 ## Features
 - **Authentication:** User and staff login with role-based access control.
 - **Room Booking:** Book different types of rooms.
