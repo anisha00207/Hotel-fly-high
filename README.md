@@ -20,8 +20,10 @@ FlyHigh is a comprehensive hotel management system designed to streamline hotel 
 
 ## Installation
  **Clone the repository:**
+ 
+ -move to the directory where you want to clone the project by using cd(change directory) command
    ```sh
-   https://github.com/anisha00207/hotel-fly-high.git
+   git clone https://github.com/anisha00207/hotel-fly-high.git
 ```
 ## setup
 
