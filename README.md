@@ -9,6 +9,7 @@ FlyHigh is a comprehensive hotel management system designed to streamline hotel 
 - **Facility Management:** Manage and view facilities like swimming pool, spa, restaurants, gym, and heli service.
 - **Responsive Design:** Built with Bootstrap 5 for a responsive layout.
 - **Enhanced User Experience:** Utilizes SweetAlert for alerts and AOS (Animate On Scroll) for animations.
+- **Admin panel:** admin panel to add hotel services such as staff, rooms and to confirm customer bookings
 
 ## Technologies Used
 - HTML
@@ -21,7 +22,7 @@ FlyHigh is a comprehensive hotel management system designed to streamline hotel 
 ## Installation
  **Clone the repository:**
  
- -move to the directory where you want to clone the project by using cd(change directory) command
+ -move to the xampp/htdocs directory using cd(change directory) command
    ```sh
    git clone https://github.com/anisha00207/hotel-fly-high.git
 ```
@@ -41,6 +42,18 @@ if ($conn->connect_error) {
 }
 ?>
 ```
+**access the admin panel**
+
+username- admin@gmail.com
+
+password-1234
+
+to change or to add the username and password of the admin/staff , edit the emp_login table of flyhigh database of phpmyadmin
+```sh  
+http://localhost:8080/phpmyadmin
+```
+
+**note - the port name could be different in my case it's 8080**
 
 ## Screenshots
 
