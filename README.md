@@ -32,7 +32,7 @@ http://hotel-flyyhigh.free.nf/index.php
  
  -move to the xampp/htdocs directory using cd(change directory) command
    ```sh
-   git clone https://github.com/anisha00207/hotel-fly-high.git
+   git clone https://github.com/anisha00207/HotelManagement-fly-high.git
 ```
 ## setup
 
